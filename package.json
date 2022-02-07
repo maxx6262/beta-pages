@@ -1,0 +1,34 @@
+{
+  "name": "allswap-backend",
+  "version": "1.0.0",
+  "description": "Allswap Contract interaction API",
+  "main": "./backend/server.js",
+  "scripts": {
+    "test": "echo `\\n No test command`"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxx6262/beta-pages.git"
+  },
+  "keywords": [
+    "allswap",
+    "defi",
+    "matic",
+    "polygon",
+    "api"
+  ],
+  "author": "M.LECOUSTRE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxx6262/beta-pages/issues"
+  },
+  "homepage": "https://github.com/maxx6262/beta-pages#readme",
+  "dependencies": {
+    "friendly-errors-webpack-plugin": "^1.7.0",
+    "html-webpack-plugin": "^5.5.0",
+    "web3": "^1.7.0",
+    "web3modal": "^1.9.5",
+    "webpack": "^5.68.0",
+    "webpack-dev-server": "^4.7.4"
+  }
+}
